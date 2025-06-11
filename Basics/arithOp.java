@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ArithOp  //ArithOp = Arithmetic Operations 
+class arithOp  //arithOp = Arithmetic Operations 
 {
    public static void main(String args[])
     {
